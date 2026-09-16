@@ -61,7 +61,7 @@ Course offered by,
 
 ## Lab Notes
 
-- [**Lab 01**](https://shadowshahriar.github.io/cse328/notes/lab-01/): 16 September 2026
+- [**Lab 01**](https://shadowshahriar.github.io/cse328/notes/lab-01/): 14 September 2026
 
 <!-- - [**Class 02-03**](https://shadowshahriar.github.io/cse328/notes/class-02-03.pdf): 13 May 2026
 - [**Class 04**](https://shadowshahriar.github.io/cse328/notes/class-04.pdf): 18 May 2026
