@@ -57,6 +57,7 @@ Course offered by,
 #### Mid Term
 
 - [**Class 01**](https://shadowshahriar.github.io/cse328/notes/class-01.pdf): 15 September 2026
+- [**Class 02**](https://shadowshahriar.github.io/cse328/notes/class-02.pdf): 16 September 2026
 
 ## Lab Notes
 
