@@ -63,6 +63,11 @@ Course offered by,
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse328/notes/lab-01/): 14 September 2026
 
+## Lab Tasks
+
+- **01: SOW Template**: 14 September 2026
+- [**02: SOW Nurture**](https://shadowshahriar.github.io/cse328/tasks/lab-02.pdf): 21 September 2026 &#124; [**Docs**](https://docs.google.com/document/d/1sqNs607luJLikdFoLUrmdfKvgnfjaZdk2P05uxztd-M/edit?usp=sharing)
+
 <!-- - [**Class 02-03**](https://shadowshahriar.github.io/cse328/notes/class-02-03.pdf): 13 May 2026
 - [**Class 04**](https://shadowshahriar.github.io/cse328/notes/class-04.pdf): 18 May 2026
 - [**Class 05**](https://shadowshahriar.github.io/cse328/notes/class-05.pdf): 8 June 2026
