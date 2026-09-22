@@ -58,6 +58,7 @@ Course offered by,
 
 - [**Class 01**](https://shadowshahriar.github.io/cse328/notes/class-01.pdf): 15 September 2026
 - [**Class 02**](https://shadowshahriar.github.io/cse328/notes/class-02.pdf): 16 September 2026
+- [**Class 03**](https://shadowshahriar.github.io/cse328/notes/class-03.pdf): 22 September 2026
 
 ## Lab Notes
 
@@ -67,24 +68,3 @@ Course offered by,
 
 - **01: SOW Template**: 14 September 2026
 - [**02: SOW Nurture**](https://shadowshahriar.github.io/cse328/tasks/lab-02.pdf): 21 September 2026 &#124; [**Docs**](https://docs.google.com/document/d/1sqNs607luJLikdFoLUrmdfKvgnfjaZdk2P05uxztd-M/edit?usp=sharing)
-
-<!-- - [**Class 02-03**](https://shadowshahriar.github.io/cse328/notes/class-02-03.pdf): 13 May 2026
-- [**Class 04**](https://shadowshahriar.github.io/cse328/notes/class-04.pdf): 18 May 2026
-- [**Class 05**](https://shadowshahriar.github.io/cse328/notes/class-05.pdf): 8 June 2026
-- [**Class 06**](https://shadowshahriar.github.io/cse328/notes/class-06.pdf): 10 June 2026
-- [**Class 07**](https://shadowshahriar.github.io/cse328/notes/class-07.pdf): 15 June 2026
-- **Class 08**: 21 June 2026 (⛔ No longer available)
-- [**Class 09**](https://shadowshahriar.github.io/cse328/notes/class-09.pdf): 22 June 2026 (Contributed by [**Munasib Maria Oyshi**](https://github.com/BlackPepper404))
-
-#### Final Term
-
-- [**Class 10**](https://shadowshahriar.github.io/cse328/notes/class-10.pdf): 6 July 2026 (Contributed by [**Munasib Maria Oyshi**](https://github.com/BlackPepper404))
-- [**Class 11**](https://shadowshahriar.github.io/cse328/notes/class-11.pdf): 13 July 2026 (Contributed by [**Munasib Maria Oyshi**](https://github.com/BlackPepper404))
-- [**Class 12**](https://shadowshahriar.github.io/cse328/notes/class-12.pdf): 15 July 2026
-- [**Class 13**](https://shadowshahriar.github.io/cse328/notes/class-13.pdf): 19 July 2026
-- [**Class 14**](https://shadowshahriar.github.io/cse328/notes/class-14.pdf): 22 July 2026
-- [**Class 15**](https://shadowshahriar.github.io/cse328/notes/class-15.pdf): 27 July 2026
-- [**Class 16**](https://shadowshahriar.github.io/cse328/notes/class-16.pdf): 29 July 2026 (Contributed by [**Amrin Jahan**](https://github.com/tushin07))
-- [**Class 17**](https://shadowshahriar.github.io/cse328/notes/class-17.pdf): 3 August 2026
-- [**Class 18**](https://shadowshahriar.github.io/cse328/notes/class-18.pdf): 10 August 2026
-- [**Class 19**](https://shadowshahriar.github.io/cse328/notes/class-19.pdf): 12 August 2026 -->
